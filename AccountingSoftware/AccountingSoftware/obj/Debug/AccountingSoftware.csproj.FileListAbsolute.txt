@@ -1,0 +1,6 @@
+C:\Users\Aaron\Desktop\Basic_C#_Progrmas\AccountingSoftware\AccountingSoftware\bin\Debug\AccountingSoftware.exe.config
+C:\Users\Aaron\Desktop\Basic_C#_Progrmas\AccountingSoftware\AccountingSoftware\bin\Debug\AccountingSoftware.exe
+C:\Users\Aaron\Desktop\Basic_C#_Progrmas\AccountingSoftware\AccountingSoftware\bin\Debug\AccountingSoftware.pdb
+C:\Users\Aaron\Desktop\Basic_C#_Progrmas\AccountingSoftware\AccountingSoftware\obj\Debug\AccountingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Basic_C#_Progrmas\AccountingSoftware\AccountingSoftware\obj\Debug\AccountingSoftware.exe
+C:\Users\Aaron\Desktop\Basic_C#_Progrmas\AccountingSoftware\AccountingSoftware\obj\Debug\AccountingSoftware.pdb
