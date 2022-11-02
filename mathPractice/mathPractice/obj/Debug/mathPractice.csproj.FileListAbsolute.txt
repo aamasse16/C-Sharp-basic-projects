@@ -1,0 +1,6 @@
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\mathPractice\mathPractice\bin\Debug\mathPractice.exe.config
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\mathPractice\mathPractice\bin\Debug\mathPractice.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\mathPractice\mathPractice\bin\Debug\mathPractice.pdb
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\mathPractice\mathPractice\obj\Debug\mathPractice.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\mathPractice\mathPractice\obj\Debug\mathPractice.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\mathPractice\mathPractice\obj\Debug\mathPractice.pdb

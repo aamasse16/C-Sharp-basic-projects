@@ -1,0 +1,7 @@
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\MathAndCompairisonOperattors\MathAndCompairisonOperattors\bin\Debug\MathAndCompairisonOperattors.exe.config
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\MathAndCompairisonOperattors\MathAndCompairisonOperattors\bin\Debug\MathAndCompairisonOperattors.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\MathAndCompairisonOperattors\MathAndCompairisonOperattors\bin\Debug\MathAndCompairisonOperattors.pdb
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\MathAndCompairisonOperattors\MathAndCompairisonOperattors\obj\Debug\MathAndCompairisonOperattors.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\MathAndCompairisonOperattors\MathAndCompairisonOperattors\obj\Debug\MathAndCompairisonOperattors.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\MathAndCompairisonOperattors\MathAndCompairisonOperattors\obj\Debug\MathAndCompairisonOperattors.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\MathAndCompairisonOperattors\MathAndCompairisonOperattors\obj\Debug\MathAndCompairisonOperattors.pdb
