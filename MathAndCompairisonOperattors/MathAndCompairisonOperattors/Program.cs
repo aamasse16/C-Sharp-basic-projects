@@ -28,8 +28,20 @@ namespace MathAndCompairisonOperattors
             //Console.WriteLine(quotient);
             //Console.Read();
 
-            int remainder = 11 % 2;
-            Console.WriteLine(remainder);
+            //int remainder = 11 % 2;
+            //Console.WriteLine(remainder);
+            //Console.Read();
+
+            //bool trueOrFalse 12 > 5;
+            //Console.Write(trueOrFalse.ToString());
+            //Console.Read();
+            
+            int roomTemp = 70;
+            int currentTemp = 70;
+            
+            //bool isWarm = currentTemp >= roomTemp;
+            bool isWarm = currentTemp 1= roomTemp;
+            Console.WriteLine(isWarm);
             Console.Read();
 
         }
