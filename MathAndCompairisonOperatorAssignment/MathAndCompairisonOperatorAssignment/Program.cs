@@ -11,15 +11,15 @@ namespace MathAndCompairisonOperatorAssignment
         static void Main(string[] args)
         {   //welcoming to the program
             Console.WriteLine("Anonymous Income Comparison Program");
-            Console.WriteLine("Please tell us your hourly rate");
+            Console.WriteLine("Person 1 please tell us your hourly rate");
             decimal personOneHourlyRate = Convert.ToDecimal(Console.ReadLine()); //declairing variables
-            Console.WriteLine("Please tell us how many hours you work a week");
+            Console.WriteLine("Person 1 please tell us how many hours you work a week");
             decimal personOneHoursWorked = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("Person 1 \nHourly Rate: " + personOneHourlyRate + "\nHours Worked per week: " + personOneHoursWorked);//using variables with string concatenation
 
-            Console.WriteLine("Please tell us your hourly rate");
+            Console.WriteLine("Person 2 please tell us your hourly rate");
             decimal personTwoHourlyRate = Convert.ToDecimal(Console.ReadLine());//declaring variables
-            Console.WriteLine("Please tell us how many hours you work a week");
+            Console.WriteLine("Person 2 please tell us how many hours you work a week");
             decimal personTwoHoursWorked = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("Person 2 \nHourly Rate: " + personTwoHourlyRate + "\nHours Worked per week: " + personTwoHoursWorked);//using variables with string concatenation
 

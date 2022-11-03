@@ -10,6 +10,11 @@ namespace ConditionalStatments
     {
         static void Main(string[] args)
         {
+            int num1 = 24;
+            int num2 = 12;
+
+            string result = num1 > num2 ? "Num1 is greater than num2" : "Num2 is greater than num1";
+            Console.WriteLine(result);
             
 
             if (10 <= 9)
