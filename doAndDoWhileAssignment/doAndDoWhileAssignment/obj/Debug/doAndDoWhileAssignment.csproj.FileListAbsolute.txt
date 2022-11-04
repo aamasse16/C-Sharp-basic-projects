@@ -1,0 +1,6 @@
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\doAndDoWhileAssignment\doAndDoWhileAssignment\bin\Debug\doAndDoWhileAssignment.exe.config
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\doAndDoWhileAssignment\doAndDoWhileAssignment\bin\Debug\doAndDoWhileAssignment.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\doAndDoWhileAssignment\doAndDoWhileAssignment\bin\Debug\doAndDoWhileAssignment.pdb
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\doAndDoWhileAssignment\doAndDoWhileAssignment\obj\Debug\doAndDoWhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\doAndDoWhileAssignment\doAndDoWhileAssignment\obj\Debug\doAndDoWhileAssignment.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\doAndDoWhileAssignment\doAndDoWhileAssignment\obj\Debug\doAndDoWhileAssignment.pdb
