@@ -1,0 +1,7 @@
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\stringFunctions\stringFunctions\bin\Debug\stringFunctions.exe.config
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\stringFunctions\stringFunctions\bin\Debug\stringFunctions.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\stringFunctions\stringFunctions\bin\Debug\stringFunctions.pdb
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\stringFunctions\stringFunctions\obj\Debug\stringFunctions.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\stringFunctions\stringFunctions\obj\Debug\stringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\stringFunctions\stringFunctions\obj\Debug\stringFunctions.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\stringFunctions\stringFunctions\obj\Debug\stringFunctions.pdb
