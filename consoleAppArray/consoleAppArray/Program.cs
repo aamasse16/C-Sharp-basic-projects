@@ -52,14 +52,14 @@ namespace consoleAppArray
                 Console.WriteLine(userInt + " does not exist.");//if not in range then this message will be displayed
             }
 
-            List<string> stringList = new List<string>();
-            stringList.Add("Aaron");
+            List<string> stringList = new List<string>();//initializing a list
+            stringList.Add("Aaron");//populating the list
             stringList.Add("Luis");
             stringList.Add("Alex");
             stringList.Add("Zach");
 
-            Console.WriteLine("Please pick a number 0-3");
-            Console.WriteLine(stringList[Convert.ToInt32(Console.ReadLine())]);
+            Console.WriteLine("Please pick a number 0-3");//asking user for a number
+            Console.WriteLine(stringList[Convert.ToInt32(Console.ReadLine())]);//using the num given by the user to get a value from the list and print it to the console
             
             Console.Read();
         }
