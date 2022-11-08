@@ -17,7 +17,14 @@ namespace CallingMethodsApp
 
             int number = part1.addNumber(userNum);
 
-            Console.WriteLine(number);
+            int number2 = part1.subNumber(userNum);
+
+            int number3 = part1.multiplyNumber(userNum);
+
+
+            Console.WriteLine("Your number plus 5 = " + number);
+            Console.WriteLine("Your number plus 5 = " + number2);
+            Console.WriteLine("Your number plus 5 = " + number3);
 
 
             Console.ReadLine();
