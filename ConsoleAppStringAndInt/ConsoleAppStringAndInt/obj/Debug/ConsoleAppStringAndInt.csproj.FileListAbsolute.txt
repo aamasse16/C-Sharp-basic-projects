@@ -1,0 +1,7 @@
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppStringAndInt\ConsoleAppStringAndInt\bin\Debug\ConsoleAppStringAndInt.exe.config
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppStringAndInt\ConsoleAppStringAndInt\bin\Debug\ConsoleAppStringAndInt.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppStringAndInt\ConsoleAppStringAndInt\bin\Debug\ConsoleAppStringAndInt.pdb
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppStringAndInt\ConsoleAppStringAndInt\obj\Debug\ConsoleAppStringAndInt.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppStringAndInt\ConsoleAppStringAndInt\obj\Debug\ConsoleAppStringAndInt.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppStringAndInt\ConsoleAppStringAndInt\obj\Debug\ConsoleAppStringAndInt.pdb
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppStringAndInt\ConsoleAppStringAndInt\obj\Debug\ConsoleAppStringAndInt.csproj.AssemblyReference.cache
