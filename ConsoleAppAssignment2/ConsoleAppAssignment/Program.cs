@@ -89,13 +89,9 @@ namespace ConsoleAppAssignment
 
             foreach (string str in strings)
             {
-                dupStrings.Add(str);
+                
 
-                if (str.Contains("Aaron") && dupStrings.Contains("Aaron"))
-                {
-                    Console.WriteLine(str + " - This is a duplicate");
-                }
-                else if (str.Contains("Alex") && dupStrings.Contains("Alex"))
+                if (str.Contains(str) && dupStrings.Contains(str))
                 {
                     Console.WriteLine(str + " - This is a duplicate");
                 }
@@ -103,6 +99,7 @@ namespace ConsoleAppAssignment
                 {
                     Console.WriteLine(str + " - This is unique");
                 }
+                dupStrings.Add(str);
             }
             Console.Read();
         }

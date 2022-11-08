@@ -5,3 +5,10 @@ C:\Users\Aaron\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\
 C:\Users\Aaron\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.exe
 C:\Users\Aaron\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.pdb
 C:\Users\Aaron\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppAssignment2\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe.config
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppAssignment2\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppAssignment2\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.pdb
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppAssignment2\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppAssignment2\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppAssignment2\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\ConsoleAppAssignment2\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.pdb
