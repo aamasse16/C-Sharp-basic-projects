@@ -10,16 +10,16 @@ namespace CallingMethodsApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please input a number to be added.");
-            int userNum = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please input a number to be added.");//asking user for a number
+            int userNum = Convert.ToInt32(Console.ReadLine());//assigning that number to userNum
 
-            mathAddition part1 = new mathAddition();
+            mathAddition part1 = new mathAddition();//creating a new object using our new class
 
-            int number = part1.addNumber(userNum);
+            int number = part1.addNumber(userNum);//creating a new number that uses a method from our class
 
-            int number2 = part1.subNumber(userNum);
+            int number2 = part1.subNumber(userNum);//creating a new number that uses a method from our class
 
-            int number3 = part1.multiplyNumber(userNum);
+            int number3 = part1.multiplyNumber(userNum)//creating a new number that uses a method from our class
 
 
             Console.WriteLine("Your number plus 5 = " + number);
