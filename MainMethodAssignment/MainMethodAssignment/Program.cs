@@ -29,9 +29,9 @@ namespace MainMethodAssignment
             Console.WriteLine("Please give me one more number to multiply");//ask user for one last number
             string userString = Console.ReadLine();//get number from user and assign it to userString
 
-            string multipliedString = add.addNum(userString);
+            string multipliedString = add.addNum(userString);//calling method and giving it userString to compute
 
-            Console.WriteLine("Your number times 2 = " + multipliedString);//retun
+            Console.WriteLine("Your number times 2 = " + multipliedString);//retun new number and some text to the console
 
             Console.Read();
 
