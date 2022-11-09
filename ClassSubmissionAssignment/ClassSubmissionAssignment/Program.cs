@@ -31,7 +31,7 @@ namespace ClassSubmissionAssignment
             OutputInts.outputParameter(out i);//calling my method with an out parameter
             Console.WriteLine("After the method is called \"i\" is = {0}", i.ToString());//printing the value of "i" after the method is called
 
-            StaticClass.addTwo(num1: 8, num2: 16);
+            StaticClass.addTwo(num1: 8, num2: 16);//calling my static void method from my static class
 
             Console.ReadLine();
         }
