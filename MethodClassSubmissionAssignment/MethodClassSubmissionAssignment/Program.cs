@@ -10,8 +10,8 @@ namespace MethodClassSubmissionAssignment
     {
         static void Main(string[] args)
         {
-
-            TwoInts.takeTwo(9,4);
+            TwoInts.takeTwo(73,8);//calling the method and inputting 2 ints not using the parameter names
+            TwoInts.takeTwo(num1: 9,num2: 4);//calling method and inputing 2 ints using parameter names
 
             Console.Read();
         }

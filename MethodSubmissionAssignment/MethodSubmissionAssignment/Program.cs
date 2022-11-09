@@ -10,11 +10,11 @@ namespace MethodSubmissionAssignment
     {
         static void Main(string[] args)
         {
-            try
-            {
                 Console.WriteLine("Please input a number to be added.");//asking user for a number
                 int userNum = Convert.ToInt32(Console.ReadLine());//assigning that number to userNum
 
+            try
+            {
                 Console.WriteLine("Please give a second number.");//getting second number
                 int userNum2 = Convert.ToInt32(Console.ReadLine());//assigning second number to userNum2
 
@@ -25,8 +25,6 @@ namespace MethodSubmissionAssignment
             }
             catch
             {
-                Console.WriteLine("Please re-enter your number to be added.");//asking user for a number
-                int userNum = Convert.ToInt32(Console.ReadLine());//assigning that number to userNum
 
                 twoInts newNums = new twoInts();//creating an instance of the class
 
