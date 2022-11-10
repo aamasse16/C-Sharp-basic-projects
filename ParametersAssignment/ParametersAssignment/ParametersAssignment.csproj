@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{327BCFFB-F13D-4BC5-8C54-EED3AE04D17E}</ProjectGuid>
+    <ProjectGuid>{DC1E69B6-CE90-4EBD-B4CB-03C8A758ABFF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OperatorsAssignment</RootNamespace>
-    <AssemblyName>OperatorsAssignment</AssemblyName>
+    <RootNamespace>ParametersAssignment</RootNamespace>
+    <AssemblyName>ParametersAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
