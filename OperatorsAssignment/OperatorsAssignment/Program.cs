@@ -10,19 +10,19 @@ namespace OperatorsAssignment
     {
         static void Main(string[] args)
         {
-            Employee emp1 = new Employee();
-            emp1.firtName = "Aaron";
+            Employee emp1 = new Employee();//creating a object from employee class
+            emp1.firtName = "Aaron";//giving emp1 values
             emp1.lastName = "Masse";
             emp1.Id = 1;
 
-            Employee emp2 = new Employee();
-            emp2.firtName = "Aaron";
+            Employee emp2 = new Employee();//creating a second object from the employee class
+            emp2.firtName = "Aaron";//giving emp2 values
             emp2.lastName = "Masse";
             emp2.Id = 1;
 
-            if (emp1 == emp2)
+            if (emp1 == emp2)//using the overloaded operator to compair emp1 and emp2
             {
-                Console.WriteLine("Employee 1 and Employee 2 are the same.");
+                Console.WriteLine("Employee 1 and Employee 2 are the same.");//if the above compairision is true print this
             }
             Console.Read();
         }
