@@ -1,0 +1,7 @@
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\SrtuctAssignment\SrtuctAssignment\bin\Debug\SrtuctAssignment.exe.config
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\SrtuctAssignment\SrtuctAssignment\bin\Debug\SrtuctAssignment.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\SrtuctAssignment\SrtuctAssignment\bin\Debug\SrtuctAssignment.pdb
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\SrtuctAssignment\SrtuctAssignment\obj\Debug\SrtuctAssignment.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\SrtuctAssignment\SrtuctAssignment\obj\Debug\SrtuctAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\SrtuctAssignment\SrtuctAssignment\obj\Debug\SrtuctAssignment.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\SrtuctAssignment\SrtuctAssignment\obj\Debug\SrtuctAssignment.pdb
