@@ -17,6 +17,13 @@ namespace AbstractClassAssignment
 
             one.SayName();//calling the superclass method from persons class
 
+            IQuitTable Aaron = new Employee();//using polymorphism to create an object of IQuitTable
+            
+            Aaron.Quit();//calling the quit method from the IQuitTable 
+            {
+                Console.WriteLine("The quit method is working.");
+            }
+
             Console.Read();
         }
     }
