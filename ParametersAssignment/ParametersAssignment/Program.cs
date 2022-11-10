@@ -23,10 +23,10 @@ namespace ParametersAssignment
                 Console.WriteLine(ints.things[i]);//each time it goes through the loop print the current int being worked with
             }
 
-            foreach (int o in ints.things)
-            {
-                Console.WriteLine(ints.things[o]);
-            }
+            //foreach (int o in ints.things)
+            //{
+            //    Console.WriteLine(ints.things[o]);
+            //}
 
             for (int j = 0; j < strings.things.Count(); j++)//for loop to iterate through the ints list
             {
