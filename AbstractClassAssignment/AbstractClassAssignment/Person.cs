@@ -13,7 +13,7 @@ namespace AbstractClassAssignment
 
         public virtual void SayName()//creating a method that will print the 2 properties above to the console
         {
-            Console.WriteLine(firstName + " " + lastName);
+            Console.WriteLine(firstName + " " + lastName);//printing to the console the 2 class properties
         }
     }
 }
