@@ -12,7 +12,7 @@ namespace AbstractClassAssignment
         {
             Console.WriteLine(firstName + " " + lastName);//printing to the console the 2 class properties
         }
-        public void Quit()//calling the Quit method
+        public void Quit()//implimenting the quit method in Employee
         {
         }
     }
