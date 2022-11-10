@@ -10,25 +10,31 @@ namespace ParsingEnumsAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter your favorite day of the week.");
+            Console.WriteLine("Please enter your favorite day of the week.");//asking user for input
 
-            string userDay = Console.ReadLine();
-
-            DaysOfTheWeek day = new DaysOfTheWeek();
-            Day favDay = (Day)Enum.Parse(typeof(Day), userDay);
-
-            Console.WriteLine(favDay);
-            Console.Read();
+            string userDay = Console.ReadLine();//assigning userDay to user input
+            try
+            {
+                Day favDay = (Day)Enum.Parse(typeof(Day), userDay.ToLower());//assigning the variable userday to the enum and checking to see if it matches 
+                                                                             //one of the enum values 
+                Console.WriteLine(favDay);//finally printing the enum value if it matched in the above code if not an error will be thrown
+                Console.Read();
+            }
+            catch 
+            {
+                Console.WriteLine("Please enter an actual day of the week.");
+                Console.Read();
+            }
         }
-        public enum Day
+        public enum Day//creating a enum called Day
         {
-            Monday,
-            Tuesday,
-            Wednesday,
-            Thursday,
-            Friday,
-            Saturday,
-            Sunday
+            monday,//giving enum values
+            tuesday,
+            wednesday,
+            thursday,
+            friday,
+            saturday,
+            sunday
         }
     }
 }

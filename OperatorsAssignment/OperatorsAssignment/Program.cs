@@ -24,6 +24,11 @@ namespace OperatorsAssignment
             {
                 Console.WriteLine("Employee 1 and Employee 2 are the same.");//if the above compairision is true print this
             }
+
+            if (emp1 != emp2)//using the overloaded operator to compair emp1 and emp2
+            {
+                Console.WriteLine("Employee 1 and Employee 2 are not the same");//if the above compairison is true print this
+            }
             Console.Read();
         }
     }
