@@ -16,6 +16,7 @@ namespace AbstractClassAssignment
             one.lastName = "Masse";//giving lastName property a string
 
             one.SayName();//calling the superclass method from persons class
+
             Console.Read();
         }
     }

@@ -11,9 +11,7 @@ namespace AbstractClassAssignment
         public string firstName;//giving the class 2 properties
         public string lastName;
 
-        public virtual void SayName()//creating a method that will print the 2 properties above to the console
-        {
-            Console.WriteLine(firstName + " " + lastName);//printing to the console the 2 class properties
-        }
+        public abstract void SayName();//creating a method that will print the 2 properties above to the console
+        
     }
 }
