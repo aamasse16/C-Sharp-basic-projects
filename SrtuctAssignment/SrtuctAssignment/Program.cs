@@ -10,15 +10,15 @@ namespace SrtuctAssignment
     {
         static void Main(string[] args)
         {
-            Number newNumber = new Number
+            Number newNumber = new Number//create an object of data type Number
             {
-                Amount = Convert.ToDecimal(1.4343)
+                Amount = Convert.ToDecimal(1.4343)//assign it an amount
             };
 
-            Console.WriteLine(newNumber.Amount);
+            Console.WriteLine(newNumber.Amount);//print new amount to console
             Console.ReadLine();
         }
-        public struct Number
+        public struct Number//create struct with property "Amount"
         {
             public decimal Amount { get; set; }
         }
