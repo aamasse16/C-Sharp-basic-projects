@@ -31,9 +31,9 @@ namespace LambdaAssignment
             //    }
             //}
 
-            List<Employee> idList = empList.Where(y => y.Id > 5).ToList();
+            List<Employee> idList = empList.Where(y => y.Id > 5).ToList();//using lambda expression to pull only employees with IDs greater than 5 to new list
 
-            foreach (Employee emp1 in idList)
+            foreach (Employee emp1 in idList)//printing to console all the names of the people in the new list
             { 
                 Console.WriteLine(emp1.FirstName);
             }
@@ -41,7 +41,7 @@ namespace LambdaAssignment
             List<Employee> newList = empList.Where(x => x.FirstName == "Joe").ToList();//using lambda expression to pull only the employees with the first name "Joe"
             //into a new list
 
-            foreach (Employee emp in newList)
+            foreach (Employee emp in newList)//printing to console all the names of the people in the new list
             {
                 Console.WriteLine(emp.FirstName);
             }

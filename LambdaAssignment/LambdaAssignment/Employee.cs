@@ -8,7 +8,7 @@ namespace LambdaAssignment
 {
     public class Employee
     {
-        public int Id { get; set; }
+        public int Id { get; set; }//creating class properties
         public string FirstName { get; set; }
         public string LastName { get; set; }
     }
