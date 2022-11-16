@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FBD83824-6E57-47F5-9795-7AE0CC406E36}</ProjectGuid>
+    <ProjectGuid>{6AC59AF5-2092-485E-A5B6-C448FE238C50}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ConstructorAssignment</RootNamespace>
     <AssemblyName>ConstructorAssignment</AssemblyName>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StudentSenoir.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

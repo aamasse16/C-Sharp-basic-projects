@@ -1,10 +1,10 @@
-C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\obj\Debug\TwentyOne21.csproj.AssemblyReference.cache
-C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\obj\Debug\TwentyOne21.csproj.CoreCompileInputs.cache
 C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\bin\Debug\TwentyOne21.exe.config
 C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\bin\Debug\TwentyOne21.exe
 C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\bin\Debug\TwentyOne21.pdb
 C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\bin\Debug\Casino.dll
 C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\bin\Debug\Casino.pdb
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\obj\Debug\TwentyOne21.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\obj\Debug\TwentyOne21.csproj.CoreCompileInputs.cache
 C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\obj\Debug\TwentyOne21.csproj.CopyComplete
 C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\obj\Debug\TwentyOne21.exe
 C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\TwentyOne21\obj\Debug\TwentyOne21.pdb
