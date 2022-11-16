@@ -1,0 +1,6 @@
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\Casino\bin\Debug\Casino.dll
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\Casino\bin\Debug\Casino.pdb
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\Casino\obj\Debug\Casino.dll
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\TwentyOne21\Casino\obj\Debug\Casino.pdb
