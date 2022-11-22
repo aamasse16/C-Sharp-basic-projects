@@ -1,0 +1,12 @@
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\bin\Debug\FinalCSharpChallenge.exe.config
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\bin\Debug\FinalCSharpChallenge.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\bin\Debug\FinalCSharpChallenge.pdb
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\bin\Debug\EntityFramework.dll
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\bin\Debug\EntityFramework.xml
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\obj\Debug\FinalCSharpChallenge.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\obj\Debug\FinalCSharpChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\obj\Debug\FinalCSharpChallenge.csproj.CopyComplete
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\obj\Debug\FinalCSharpChallenge.exe
+C:\Users\Aaron\Documents\GitHub\C-Sharp-basic-projects\FinalCSharpChallenge\FinalCSharpChallenge\obj\Debug\FinalCSharpChallenge.pdb
